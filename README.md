@@ -1,0 +1,2 @@
+# Twitter-Setiment-Analysis-on-Imablanced-data-ML-project
+I performed a sentiment analysis on an Imbalanced flight data. I cleaned the Imbalanced data then trained on 70% of the data then tested the accuracy of the sentiments. Secondly I cleaned the data then applied SMOTE (an oversampling technique )to balance our data and tested using various ML algorithms. From the experiments the balanced data provided far accurate predictions of the sentiments with about 97% accuracy achieved. 
